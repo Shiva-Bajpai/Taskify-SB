@@ -13,7 +13,7 @@ Taskify-SB is a powerful and intuitive to-do list app designed to streamline you
 
 ## Getting Started
 
-To start using Taskify-SB, simply [visit our website]((https://shiva-bajpai.github.io/Taskify-SB/))
+To start using Taskify-SB, simply [visit our website](https://shiva-bajpai.github.io/Taskify-SB/)
 
 ## Features
 
