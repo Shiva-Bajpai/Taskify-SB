@@ -27,12 +27,17 @@ We welcome contributions that enhance the SB-Checks experience! If you'd like to
 - Report issues or suggest improvements by creating an issue on this repository.
 - Fork the repository, make your changes, and submit a pull request.
 
-## Support
+  <section>
+    <h2>Connect with Us</h2>
+    <p>For inquiries, feedback, or support, contact us via <a href="mailto:shivabajpai2006@gmail.com">Shivabajpai2006@gmail.com</a>. Follow us on social media platforms to stay updated with the latest deals and announcements.</p>
+  </section>
 
-For any queries, feedback, or support, reach out to us at support@sbchecks.com.
+  <section>
+    <h2>Show Some ❤️ </h2>
+    <p>If Taskify-SB has helped improve your productivity, consider starring ⭐ our repository and sharing it with your network!</p>
+    <P>Thank you for choosing Taskify-SB to manage your tasks and boost your productivity! Happy tasking!</P>
+  </section>
 
-## Show Your Love
 
-If Taskify-SB has helped improve your productivity, consider starring our repository and sharing it with others!
 
-Thank you for choosing Taskify-SB to manage your tasks and boost your productivity! Happy tasking!
+
